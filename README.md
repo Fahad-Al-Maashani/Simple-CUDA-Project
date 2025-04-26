@@ -37,6 +37,7 @@ It’s the perfect “hello world” for learning basic CUDA programming.
    ```bash
    ./array_add
   ```bash
+
 Expected output:
 Result:
 0 + 0 = 0
