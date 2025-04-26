@@ -32,9 +32,8 @@ It’s the perfect “hello world” for learning basic CUDA programming.
 
    ```bash
    nvcc array_add.cu -o array_add
-   ```bash
-   execute
-   ```bash
+   
+
    ./array_add
   ```bash
 
