@@ -1,4 +1,3 @@
-# Simple-CUDA-Project.
 # Simple CUDA Array Addition
 
 A minimal example showing how to use NVIDIA CUDA to add two integer arrays in parallel on the GPU.
